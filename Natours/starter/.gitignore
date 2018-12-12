@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.sass-cache
+node_modules
+*.css.map
+*.sass.map
+*.scss.map
